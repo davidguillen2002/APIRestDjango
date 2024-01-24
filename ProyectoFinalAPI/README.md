@@ -13,7 +13,7 @@
 
 Este repositorio contiene el backend de nuestra aplicación Nutrivista, implementada como parte del proyecto final para el curso de Arquitectura de Software y Diseño de Sistemas. La API desarrollada gestiona los datos de nutrición, permitiendo operaciones CRUD en los recursos de alimentos y nutrientes.
 
-### Características Clave
+### Características Claves
 
 - Listado y detallado de alimentos.
 - Calculadora de calorías.
